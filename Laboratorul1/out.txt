@@ -1,0 +1,4 @@
+Suma numerelor din fisier: 150.0
+Media aritmetica a numerelor din fisier: 30.0
+Valoarea maxima a numerelor din fisier: 50
+Valoarea minima a numerelor din fisier: 10

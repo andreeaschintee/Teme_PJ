@@ -1,0 +1,59 @@
+[
+  [
+    "exercitiul2.Chitara",
+    {
+      "producator": "Angel",
+      "pret": 23,
+      "tip_chitara": "ACUSTICA",
+      "nr_corzi": 11
+    }
+  ],
+  [
+    "exercitiul2.Chitara",
+    {
+      "producator": "Demon",
+      "pret": 24,
+      "tip_chitara": "ELECTRICA",
+      "nr_corzi": 12
+    }
+  ],
+  [
+    "exercitiul2.SetTobe",
+    {
+      "producator": "Artec",
+      "pret": 12,
+      "tip_tobe": "ELECTRONICE",
+      "nr_tobe": 234,
+      "nr_cinele": 21
+    }
+  ],
+  [
+    "exercitiul2.SetTobe",
+    {
+      "producator": "Angel",
+      "pret": 12,
+      "tip_tobe": "ACUSTICE",
+      "nr_tobe": 234,
+      "nr_cinele": 21
+    }
+  ],
+  [
+    "exercitiul2.SetTobe",
+    {
+      "producator": "Bella",
+      "pret": 54,
+      "tip_tobe": "ACUSTICE",
+      "nr_tobe": 21,
+      "nr_cinele": 12
+    }
+  ],
+  [
+    "exercitiul2.Chitara",
+    {
+      "producator": "Daemon",
+      "pret": 444,
+      "tip_chitara": "CLASICA",
+      "nr_corzi": 34
+    }
+  ]
+]

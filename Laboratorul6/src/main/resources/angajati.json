@@ -1,0 +1,44 @@
+[
+  {
+    "numele": "Andrei",
+    "postul": "Manager",
+    "data_angajarii": [2022, 3, 15],
+    "salariul": 2800.0
+  },
+  {
+    "numele": "Elena",
+    "postul": "Analist Financiar",
+    "data_angajarii": [2016, 10, 20],
+    "salariul": 1700.0
+  },
+  {
+    "numele": "Radu",
+    "postul": "Dezvoltator Software",
+    "data_angajarii": [2019, 7, 1],
+    "salariul": 3200.0
+  },
+  {
+    "numele": "Clara",
+    "postul": "Director Executiv",
+    "data_angajarii": [2020, 6, 12],
+    "salariul": 5500.0
+  },
+  {
+    "numele": "Bogdan",
+    "postul": "Suport Tehnic",
+    "data_angajarii": [2021, 5, 18],
+    "salariul": 4200.0
+  },
+  {
+    "numele": "Diana",
+    "postul": "Manager Proiect",
+    "data_angajarii": [2022, 2, 14],
+    "salariul": 2600.0
+  },
+  {
+    "numele": "George",
+    "postul": "Consultant HR",
+    "data_angajarii": [2023, 1, 5],
+    "salariul": 2400.0
+  }
+]

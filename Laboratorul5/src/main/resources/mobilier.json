@@ -1,0 +1,181 @@
+[
+  {
+    "nume": "mobilier corp 2",
+    "placi": [
+      {
+        "descriere": "lateral",
+        "lungime": 1950,
+        "latime": 450,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          true,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac superior",
+        "lungime": 600,
+        "latime": 450,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          true
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "usa mica decorativa",
+        "lungime": 650,
+        "latime": 300,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "usa mare decorativa",
+        "lungime": 950,
+        "latime": 300,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "bază",
+        "lungime": 550,
+        "latime": 70,
+        "orientare": "LATIME",
+        "canturi": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft detașabil",
+        "lungime": 550,
+        "latime": 400,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "raft fix central",
+        "lungime": 550,
+        "latime": 450,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      }
+    ]
+  },
+  {
+    "nume": "dulap 2",
+    "placi": [
+      {
+        "descriere": "laterale",
+        "lungime": 1800,
+        "latime": 600,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          true,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac superior",
+        "lungime": 850,
+        "latime": 600,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft fix de bază",
+        "lungime": 800,
+        "latime": 600,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "rafturi intermediare",
+        "lungime": 800,
+        "latime": 550,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "ușă principală",
+        "lungime": 1750,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "prag decorativ",
+        "lungime": 800,
+        "latime": 120,
+        "orientare": "LATIME",
+        "canturi": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      }
+    ]
+  }
+]

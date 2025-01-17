@@ -1,0 +1,37 @@
+{
+  "0": {
+    "titlul": "Călătoria lui Odiseu",
+    "autorul": "Homer",
+    "anul": 800
+  },
+  "1": {
+    "titlul": "Mândrie și prejudecată",
+    "autorul": "Jane Austen",
+    "anul": 1813
+  },
+  "2": {
+    "titlul": "Război și pace",
+    "autorul": "Lev Tolstoi",
+    "anul": 1869
+  },
+  "3": {
+    "titlul": "Procesul",
+    "autorul": "Franz Kafka",
+    "anul": 1925
+  },
+  "4": {
+    "titlul": "Alchimistul",
+    "autorul": "Paulo Coelho",
+    "anul": 1988
+  },
+  "5": {
+    "titlul": "Sapiens - Scurtă istorie a omenirii",
+    "autorul": "Yuval Noah Harari",
+    "anul": 2011
+  },
+  "6": {
+    "titlul": "O scurtă istorie a timpului",
+    "autorul": "Stephen Hawking",
+    "anul": 1988
+  }
+}
